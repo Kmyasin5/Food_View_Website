@@ -1,0 +1,23 @@
+* {
+	margin: 0%;
+	padding: 0%;
+}
+
+.img-fluid {
+	height: 110vh;
+	width: 100%;
+}
+
+.catering {
+	width: 70%;
+	height: 80vh;
+}
+
+.candle {
+	height: 80vh;
+}
+
+.foot {
+	background-color: grey;
+	color: white;
+}
